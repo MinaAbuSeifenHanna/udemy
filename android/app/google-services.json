@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130530888432",
+    "project_id": "cleanarchapp-807af",
+    "storage_bucket": "cleanarchapp-807af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130530888432:android:c086b8e9ff6ac96272d035",
+        "android_client_info": {
+          "package_name": "com.example.appwithcleanarch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2OVe509SYiQwdwtRfYl_4t2SZfNTb_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
